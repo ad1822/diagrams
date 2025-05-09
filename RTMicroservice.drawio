@@ -50,8 +50,8 @@
         <mxCell id="-juNb6y3Be07XEBtlvTX-3" value="&lt;div&gt;inventory.failed.v1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="30" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-juNb6y3Be07XEBtlvTX-4" value="Update &quot;status&quot; as &quot;Rejected&quot; in OrderDB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="70" width="310" height="30" as="geometry" />
+        <mxCell id="-juNb6y3Be07XEBtlvTX-4" value="&lt;div&gt;Update &quot;status&quot; as&amp;nbsp;&lt;/div&gt;&lt;div&gt;&quot;Rejected&quot; in OrderDB&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="60" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-juNb6y3Be07XEBtlvTX-9" value="&lt;div&gt;order.payment.updated.v1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="303.97" y="-90" width="200" height="40" as="geometry" />
