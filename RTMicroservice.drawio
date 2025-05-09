@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:131.0) Gecko/20100101 Firefox/131.0" version="27.0.2">
   <diagram name="Page-1" id="B6scyaqq9aUN9wMyHdbF">
-    <mxGraphModel dx="1726" dy="1315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2278" dy="1697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,10 +58,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-juNb6y3Be07XEBtlvTX-3" value="&lt;div&gt;inventory.failed.v1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="48" width="160" height="40" as="geometry" />
+          <mxGeometry x="-115" y="-370" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-juNb6y3Be07XEBtlvTX-4" value="Update &quot;status&quot; as &quot;Rejected&quot; in OrderDB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="88" width="310" height="30" as="geometry" />
+          <mxGeometry x="-190" y="-330" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-juNb6y3Be07XEBtlvTX-9" value="&lt;div&gt;order.payment.updated.v1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="303.97" y="-90" width="200" height="40" as="geometry" />
@@ -76,7 +76,7 @@
           <mxGeometry x="865" y="118" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-juNb6y3Be07XEBtlvTX-13" value="3" style="ellipse;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="18" width="30" height="30" as="geometry" />
+          <mxGeometry x="-50" y="-400" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-juNb6y3Be07XEBtlvTX-14" value="3" style="ellipse;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="393.97" y="-120" width="30" height="30" as="geometry" />
