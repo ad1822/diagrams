@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:131.0) Gecko/20100101 Firefox/131.0" version="27.0.2">
+  <diagram name="Page-1" id="B6scyaqq9aUN9wMyHdbF">
+    <mxGraphModel dx="1605" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tE_9rgRd44uCfNkiKc3w-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tE_9rgRd44uCfNkiKc3w-8" target="tE_9rgRd44uCfNkiKc3w-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tE_9rgRd44uCfNkiKc3w-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tE_9rgRd44uCfNkiKc3w-8" target="tE_9rgRd44uCfNkiKc3w-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tE_9rgRd44uCfNkiKc3w-8" value="Order Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="160" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tE_9rgRd44uCfNkiKc3w-24" value="OrderDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="95" y="310" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tE_9rgRd44uCfNkiKc3w-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tE_9rgRd44uCfNkiKc3w-26" target="tE_9rgRd44uCfNkiKc3w-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tE_9rgRd44uCfNkiKc3w-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tE_9rgRd44uCfNkiKc3w-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tE_9rgRd44uCfNkiKc3w-26" value="Inventory Service" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="162.5" width="170" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="tE_9rgRd44uCfNkiKc3w-28" value="order.created.v1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="178" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tE_9rgRd44uCfNkiKc3w-29" value="InventoryDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="410" y="300" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tE_9rgRd44uCfNkiKc3w-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tE_9rgRd44uCfNkiKc3w-33" target="tE_9rgRd44uCfNkiKc3w-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tE_9rgRd44uCfNkiKc3w-33" value="Payment Service" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="162.5" width="170" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="tE_9rgRd44uCfNkiKc3w-34" value="PaymentDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="770" y="300" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tE_9rgRd44uCfNkiKc3w-36" value="inventory.reserved.v1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="178" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
